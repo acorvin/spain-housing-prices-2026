@@ -1,0 +1,20 @@
+ine_code,region,iso_code,annual_change_all,annual_change_new,annual_change_second_hand,quarterly_change_all,ytd_change_all
+01,Andalucía,ES-AN,11.9,9.0,12.5,2.6,6.9
+02,Aragón,ES-AR,14.6,9.8,15.6,3.9,9.1
+03,Asturias,ES-AS,15.0,9.7,15.7,4.9,9.2
+04,Illes Balears,ES-IB,13.7,3.0,14.9,4.0,7.5
+05,Canarias,ES-CN,11.0,11.9,11.0,3.3,8.0
+06,Cantabria,ES-CB,13.5,6.4,14.4,3.5,6.1
+07,Castilla y León,ES-CL,14.8,9.8,15.8,4.3,8.5
+08,Castilla-La Mancha,ES-CM,11.7,8.8,12.0,4.3,6.8
+09,Cataluña,ES-CT,10.1,6.4,10.6,2.4,5.8
+10,Comunitat Valenciana,ES-VC,13.0,8.5,13.8,3.4,6.9
+11,Extremadura,ES-EX,12.8,9.5,12.9,5.2,8.0
+12,Galicia,ES-GA,12.9,7.7,13.7,4.2,7.3
+13,Comunidad de Madrid,ES-MD,12.9,5.6,14.1,4.2,7.4
+14,Región de Murcia,ES-MC,14.4,12.6,14.6,3.8,8.3
+15,Navarra,ES-NC,9.5,4.1,11.9,3.3,6.5
+16,País Vasco,ES-PV,10.0,3.1,11.2,3.1,6.3
+17,La Rioja,ES-RI,14.4,12.5,14.8,4.0,8.7
+18,Ceuta,ES-CE,15.2,,,3.9,9.9
+19,Melilla,ES-ML,13.8,,,4.6,10.3
