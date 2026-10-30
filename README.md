@@ -1,8 +1,22 @@
 # House prices in Spain by region, second quarter of 2026
 
-An interactive map of how much house prices rose in each of Spain's autonomous communities in the year to the second quarter of 2026. Prices rose everywhere. Among the 17 communities the increase runs from 9.5% in Navarra to 15.0% in Asturias, and across Spain as a whole it was 12.2%.
+An interactive map and ranking of how much house prices rose in each of Spain's autonomous communities in the year to the second quarter of 2026.
 
 Live page: https://acorvin.github.io/spain-housing-prices-2026/
+
+## The problem
+
+INE, Spain's statistics office, publishes its housing price index as a press release and tables covering 17 autonomous communities and two autonomous cities, with separate series for new and second-hand homes and for annual, quarterly and year-to-date change. In that form it is hard to see which regions rose most, how new and second-hand homes differ, or how the latest quarter compares with the last ten years.
+
+## What I did
+
+I collected the second-quarter 2026 figures from INE's data service and press release, and checked every regional figure against INE's raw data after copying it. I built an interactive map and ranking in Svelte and D3 that switch between five measures, with a line chart of the national annual change since 2016 below it.
+
+## What it found
+
+- Prices rose in all 17 communities, from 9.5% in Navarra to 15.0% in Asturias, and by 12.2% across Spain.
+- Second-hand homes rose faster than new ones in every region but Canarias. Nationally the figures were 12.9% and 7.4%.
+- Growth for all homes fell to 0.9% in early 2021, jumped to 11.3% at the end of 2024, and has stayed above 12% since the start of 2025.
 
 ## What the page shows
 
